@@ -11,18 +11,18 @@ public class Library {
     public Library(){
 
         System.out.println("Welcome to "+ owner + "'s library!!!!!");
-        //TODO: Give the array allReviews a size of 10
+        //TODO: Give the array allBooks a size of 10
 
-        //TODO: Fill the array allReviews with reviews with random ratings from 0 to 10 inclusive
+        //TODO: Fill the array allBooks with reviews with random ratings from 0 to 10 inclusive
 
-        //TODO: print all the ratings in the array allReviews
+        //TODO: print all the ratings in the array allBooks
         
         //TODO: Call the method averageRating
 
     }
 
     public void averageRating(){
-        //TODO: calculate the average rating from the array allReviews and print it
+        //TODO: calculate the average rating from the array allBooks and print it
 
     }
 }
